@@ -21,6 +21,12 @@ Este agente:
 4. Ofrece una **interfaz web** tipo chatbot desarrollada con **Streamlit**.
 5. Está preparado para **despliegue público** en **Streamlit Community Cloud**.
 
+## 🚀 Demo en vivo
+
+Puedes probar la aplicación desplegada en Streamlit:
+
+👉 [Abrir aplicación](https://desafioaluraecopy-eudutae9wr8fmvrzmcqwmw.streamlit.app/)
+
 ---
 
 ## ✨ Características principales
@@ -84,8 +90,10 @@ Abre tu navegador en http://localhost:8501.
 
 💬 Preguntas de Ejemplo para Probar
 ¿Cuál es el costo del servicio por recolección?
+<img width="1577" height="955" alt="image" src="https://github.com/user-attachments/assets/a4e20f05-38d0-4b8e-8266-89531681178f" />
 
 ¿Cuáles son los días y horarios para residuos reciclables?
+<img width="1507" height="967" alt="image" src="https://github.com/user-attachments/assets/7c91475c-c314-45e8-8982-8e6cfba1bff2" />
 
 ¿Qué barrios están cubiertos por el servicio?
 
